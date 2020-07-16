@@ -1,0 +1,99 @@
+.mysha{
+    margin-top: 100px;
+    margin-right: 200px;
+}
+.Buy-now-button{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    text-align: center;
+    width:130px;
+    height: 40px;
+    
+}
+p{
+    color: gray;
+}
+.card{
+    border: none;
+    border-radius: 5px;
+    
+}
+.price{
+    text-align: center;
+    margin-top: 25px;  
+}
+.hero{
+    text-align: center;
+    margin-top: 15px;
+
+}
+
+#hello{
+margin-bottom: 50px;
+color: orange;
+}
+.price2{
+    text-align: center;
+    margin-top: 60px;
+    margin-right: 25px;
+
+}
+.price1{
+    text-align: center;
+    margin-top: 45px;
+   margin-right: 25px;
+   
+}
+.hero1{
+    text-align: center;
+    margin-top: 15px;
+    margin-right: 22px;
+}
+.hero2{
+    text-align: center;
+    margin-top: 15px;
+    margin-right: 20px;
+}
+.price4{
+    text-align: center;
+    margin-top: 45px;
+   margin-right:40px;
+   
+   
+}
+.hero4{
+    text-align: center;
+    margin-top: 15px;
+    margin-right: 22px;
+    c
+}
+.price5{
+    text-align: center;
+    margin-top: 45px;
+   margin-right: 25px;
+   
+}
+.hero5{
+    text-align: center;
+    margin-top: 15px;
+    margin-right: 22px;
+}
+h2{
+    color: orange;
+    margin-top: 5%;
+    text-align: center;
+}
+
+.athina{
+   margin-top: 200px;
+margin-right: 60px;
+}
+
+h5{
+    margin-left: 18px;
+    margin-top: 8px;
+}
+.hi img{
+    margin-left: 70%;
+}
